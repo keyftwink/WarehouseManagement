@@ -1,0 +1,16 @@
+D:\code\sharpprojects\laboratorka\bin\Debug\laboratorka.exe.config
+D:\code\sharpprojects\laboratorka\bin\Debug\laboratorka.exe
+D:\code\sharpprojects\laboratorka\bin\Debug\laboratorka.pdb
+D:\code\sharpprojects\laboratorka\obj\Debug\laboratorka.csproj.AssemblyReference.cache
+D:\code\sharpprojects\laboratorka\obj\Debug\laboratorka.csproj.SuggestedBindingRedirects.cache
+D:\code\sharpprojects\laboratorka\obj\Debug\laboratorka.Form1.resources
+D:\code\sharpprojects\laboratorka\obj\Debug\laboratorka.Properties.Resources.resources
+D:\code\sharpprojects\laboratorka\obj\Debug\laboratorka.csproj.GenerateResource.cache
+D:\code\sharpprojects\laboratorka\obj\Debug\laboratorka.csproj.CoreCompileInputs.cache
+D:\code\sharpprojects\laboratorka\obj\Debug\laboratorka.exe
+D:\code\sharpprojects\laboratorka\obj\Debug\laboratorka.pdb
+D:\code\sharpprojects\laboratorka\obj\Debug\laboratorka.signUp.resources
+D:\code\sharpprojects\laboratorka\obj\Debug\laboratorka.AdminForm.resources
+D:\code\sharpprojects\laboratorka\obj\Debug\laboratorka.SubscriberForm.resources
+D:\code\sharpprojects\laboratorka\obj\Debug\laboratorka.OperatorForm.resources
+D:\code\sharpprojects\laboratorka\obj\Debug\laboratorka.Menu.resources
